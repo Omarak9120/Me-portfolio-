@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=New+Amsterdam&family=Pinyon+Script&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --font: "Inter", sans-serif;
+}
+
+@layer base {
+  html {
+  font-family: var(--font) ;
+  color: white;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+  @apply bg-black  
+}
+
+button {
+  transition: background-color 0.3s ease, border-color 0.3s ease, color 0.3s ease;
+}
+
+.tech{
+  @apply border border-purple-500 p-3 rounded-lg
+}
+.dark{
+   @apply bg-white text-black
+}
+.container{
+  overflow-x: hidden;
+}
+}

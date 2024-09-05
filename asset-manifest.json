@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Omarak9120/Me-portfolio-/static/css/main.d5c27e40.css",
+    "main.js": "/Omarak9120/Me-portfolio-/static/js/main.0c3b4c23.js",
+    "static/js/453.1407b060.chunk.js": "/Omarak9120/Me-portfolio-/static/js/453.1407b060.chunk.js",
+    "static/media/Me.png": "/Omarak9120/Me-portfolio-/static/media/Me.0f758b07756b5bdab9cd.png",
+    "static/media/Project4.png": "/Omarak9120/Me-portfolio-/static/media/Project4.e3ffb9baa9e1c0d699cd.png",
+    "static/media/Project1.png": "/Omarak9120/Me-portfolio-/static/media/Project1.3ce59b90814f851d91f2.png",
+    "static/media/Project3.png": "/Omarak9120/Me-portfolio-/static/media/Project3.72421b87656a79c6a1d8.png",
+    "static/media/ak-logo.jpg": "/Omarak9120/Me-portfolio-/static/media/ak-logo.24215b769677604f0cb8.jpg",
+    "static/media/Project2.png": "/Omarak9120/Me-portfolio-/static/media/Project2.afd3deb9f6271ec66b6d.png",
+    "index.html": "/Omarak9120/Me-portfolio-/index.html",
+    "main.d5c27e40.css.map": "/Omarak9120/Me-portfolio-/static/css/main.d5c27e40.css.map",
+    "main.0c3b4c23.js.map": "/Omarak9120/Me-portfolio-/static/js/main.0c3b4c23.js.map",
+    "453.1407b060.chunk.js.map": "/Omarak9120/Me-portfolio-/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5c27e40.css",
+    "static/js/main.0c3b4c23.js"
+  ]
+}
